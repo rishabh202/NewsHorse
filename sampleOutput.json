@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news-ca",
+          "name": "Google News (Canada)"
+        },
+        "author": "CBC.ca",
+        "title": "Sask. man previously charged with sexual assault against children now faces 60 new charges - CBC.ca",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS9zYXNrYXRvb24vYXNzaW5pYm9pYS1zYXNrLW1hbi1mYWNlcy1tb3JlLWNoYXJnZXMtMS43MjA0MTQy0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjcyMDQxNDI?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T23:00:49+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "entertainment-weekly",
+          "name": "Entertainment Weekly"
+        },
+        "author": "https://www.facebook.com/entertainmentweekly",
+        "title": "'All That' star Lori Beth Denberg accuses Dan Schneider of showing her porn, initiating phone sex",
+        "description": "'All That' star Lori Beth Denberg accused Dan Schneider of showing her porn, initiating phone sex, and lashing out at her on and off set when she was a cast member on the '90s show.",
+        "url": "https://ew.com/all-that-star-lori-beth-denberg-accuses-dan-schneider-porn-phone-sex-8648256",
+        "urlToImage": "https://ew.com/thmb/GTbzSjzCYGoyNbIPG_zG6v-depI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lori-Beth-Denberg-Dan-Schneider-051424-64bbd32c668c45e0af0aed29e975fac1.jpg",
+        "publishedAt": "2024-05-14T21:07:15.7525574Z",
+        "content": "All Thatstar Lori Beth Denberg has come forward to accuse former Nickelodeon producer Dan Schneider of years of \"abuse and mistreatment,\" including allegations that he lashed out at her both on and o… [+5196 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-uk",
+          "name": "Google News (UK)"
+        },
+        "author": "The Telegraph",
+        "title": "Children under nine will not be taught sex education - The Telegraph",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjQvMDUvMTQvY2hpbGRyZW4tdW5kZXItbmluZS1ub3QtdGF1Z2h0LXNleC1lZHVjYXRpb24tZ292ZXJubWVudC_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T20:00:00+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn-es",
+          "name": "CNN Spanish"
+        },
+        "author": "Alexandra Ferguson",
+        "title": "Un nombre latino llega por primera vez al top 10 de nombres más populares en Estados Unidos",
+        "description": "Mateo entró por primera vez en la lista de los 10 nombres de niño más populares, convirtiéndose en el sexto nombre de niño más popular en 2023.",
+        "url": "https://cnnespanol.cnn.com/2024/05/14/nombre-latino-mateo-lista-populares-bebes-estados-unidos-trax/",
+        "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/05/gettyimages-1335795851-1.jpg?quality=100&strip=info",
+        "publishedAt": "2024-05-14T19:44:13Z",
+        "content": "(CNN) -- Hay un recién llegado en la lista de los nombres de bebé más populares en Estados Unidos.\r\nMateo entró por primera vez en la lista de los 10 nombres de niño más populares, convirtiéndose en … [+5536 chars]"
+      },
+      {
+        "source": {
+          "id": "svenska-dagbladet",
+          "name": "Svenska Dagbladet"
+        },
+        "author": null,
+        "title": "Klassiska Göta kanal med Herman Lindqvist",
+        "description": "Upplev Sverige från vattenvägen ombord på vackra M/S Diana från 1931. Stora Sverigeresan är en premiumkryssning på sex dagar som tar oss från Stockholm till Göteborg via Göta kanal. Boka här.",
+        "url": "https://accent.svd.se/klassiska-gota-kanal-med-herman-lindqvist.html?utm_source=accentbox&amp;utm_medium=svdse&amp;utm_campaign=gota_kanal_herman",
+        "urlToImage": null,
+        "publishedAt": "2024-05-13T09:37:16.132847Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "national-review",
+          "name": "National Review"
+        },
+        "author": "Caroline Downey",
+        "title": "DeSantis Admin Revokes Liquor License of Orlando Venue That Hosted Sexual Drag Show for Children",
+        "description": "Performers allegedly wore sexually suggestive clothing and prosthetic female breasts and genitalia.",
+        "url": "https://www.nationalreview.com/news/desantis-admin-revokes-liquor-license-of-orlando-venue-that-hosted-sexual-drag-show-for-children/",
+        "urlToImage": "https://www.nationalreview.com/wp-content/uploads/2022/08/ron-desantis-florida02.jpg?fit=2057%2C1200",
+        "publishedAt": "2023-02-03T22:04:21Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Renate Nyborg",
+        "title": "Why Tinder wants to end the FDA’s discriminatory blood donor policy",
+        "description": "Tinder and Match Group are urging the FDA to lift restrictions on gay and bisexual men donating blood.",
+        "url": "https://fortune.com/2022/06/01/tinder-fda-discrimination-blood-donor-policy-renate-nybor/",
+        "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1227710498-e1653669254280.jpg?resize=1200,600",
+        "publishedAt": "2022-06-01T09:30:00Z",
+        "content": "Skip to Content"
+      },
+      {
+        "source": {
+          "id": "crypto-coins-news",
+          "name": "Crypto Coins News"
+        },
+        "author": "Aaron Weaver",
+        "title": "Why Has the Media Been So Reluctant to Unmask Andrew Cuomo? - CCN.com",
+        "description": "Andrew Cuomo has been accused of sexual assault by one of his former aides.\r\n \tThis accusation comes on the heels of allegations that he threatened a journalist.\r\n \tThose allegations stem from what appears to be a massive coverup that caused thousands of Covi…",
+        "url": "https://www.ccn.com/media-unmask-andrew-cuomo/",
+        "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2021/02/andrew-cuomo-shutterstock_1767748784-e1614196667263.jpg",
+        "publishedAt": "2021-02-24T20:02:04Z",
+        "content": "Facebook TwitterLinkedInRedditMessenger\r\n\u003Cul\u003E\u003Cli\u003EAndrew Cuomo has been accused of sexual assault by one of his former aides.\u003C/li\u003E\u003Cli\u003EThis accusation comes on the heels of allegations that he threaten… [+4763 chars]"
+      },
+      {
+        "source": {
+          "id": "vice-news",
+          "name": "Vice News"
+        },
+        "author": "Cameron Joseph",
+        "title": "Tara Reade Is Now Being Investigated For Allegedly Lying on the Witness Stand",
+        "description": "Reade has accused Biden of sexually assaulting her when she was an employee of his Senate office in 1993.",
+        "url": "https://www.vice.com/en_us/article/m7je3b/tara-reade-is-now-being-investigated-for-allegedly-lying-on-the-witness-stand",
+        "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece95b99054e1009b3e58f4/lede/1590597812648-Tara-Reade.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*",
+        "publishedAt": "2020-05-27T16:45:33Z",
+        "content": "The Monterey County, California District Attorneys office has begun investigating whether Tara Reade lied under oath, an official told Politico.\r\n Reade, who at the time went by Alexandra McCabe, spe… [+2033 chars]"
+      }
+    ]
+  }
